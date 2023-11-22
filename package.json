@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "1.0.0",
   "description": "my cordova app",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "test"
   },
